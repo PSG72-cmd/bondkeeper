@@ -117,9 +117,3 @@ Mobile responsive UI
 
 Prathmesh Sharma
 AI Agent Developer | Google Agents Intensive 2025
-
-📄 License
-
-MIT License
-
-✔ END OF README
