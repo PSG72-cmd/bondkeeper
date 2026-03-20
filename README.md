@@ -50,15 +50,15 @@ Gemini Output → Streamlit UI → Final Replies
 
 📁 Project Structure
 bondkeeper/
-│── streamlit_app.py              # Modern UI
-│── simple_ingest.py              # CSV ingestion → DB
-│── simple_prompt_call.py         # LLM generation logic
-│── ingest_run.py                 # One-shot ingestion script
-│── sample_messages.csv           # Demo dataset
-│── requirements.txt              # Dependencies
-│── bondkeeper.db (optional)      # Local DB after ingestion
-│── .env.example                  # Example API key env file
-│── README.md                     # This file
+│── streamlit_app.py              
+│── simple_ingest.py              
+│── simple_prompt_call.py        
+│── ingest_run.py               
+│── sample_messages.csv         
+│── requirements.txt             
+│── bondkeeper.db (optional)      
+│── .env.example                  
+│── README.md                     
 
 🛠️ Installation
 1️⃣ Clone the repository
