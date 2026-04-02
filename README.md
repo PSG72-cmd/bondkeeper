@@ -1,7 +1,6 @@
 📌 BondKeeper — AI-Powered Social Interaction Concierge Agent
 
 🤝 BondKeeper is an AI agent designed to help individuals maintain healthy social relationships by analyzing conversations, understanding emotional intent, and generating empathetic replies in multiple tones (short, neutral, warm, and action-oriented).
-
 This project is my capstone submission for the Google Agents Intensive Certification (2025) and is built using Gemini models + Python + Streamlit.
 
 🚀 Features
